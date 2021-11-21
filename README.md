@@ -40,5 +40,5 @@ This is my repository for HW-4: Running Hadoop MapReduce on Google Cloud Platfor
 
 9. We can download the final result file from the GCP Buckets now, you can also view this file `temperatureResults` in this repository.
 
-   ![10](https://raw.githubusercontent.com/andrewyuanyuan/14848-HW4/main/screenshots/9.png)
+   ![9](https://raw.githubusercontent.com/andrewyuanyuan/14848-HW4/main/screenshots/9.png)
 
